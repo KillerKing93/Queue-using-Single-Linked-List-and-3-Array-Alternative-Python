@@ -25,5 +25,5 @@ This Implements 4 Types of Queue with Command Line Interace using python
 ## Important Note! The program mainly use Indonesian Language for the CLI!
 The program also has no inbuilt language selector. If anyone want to add that to this Repo, feel free to pull a request <3.
 
-## Happy Happy Coding
+## Happy Happy Coding!
 -Sincerely, Alif (KK93)
